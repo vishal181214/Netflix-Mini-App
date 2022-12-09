@@ -1,0 +1,58 @@
+[
+    {
+        "name":"K.G.F",
+        "id": "1",
+        "urlv":"https://www.youtube.com/watch?v=qXgF-iJ_ezE",
+        "description":"In the 1970s, a gangster goes undercover as a slave to assassinate the owner of a notorious gold mine",
+        "img":"http://m.gettywallpapers.com/wp-content/uploads/2021/02/KGF-Chapter-2-Wallpaper.png"
+    },
+    {   
+        "name":"Kanthara",
+        "id": "2",
+        "urlv":"https://www.youtube.com/watch?v=8mrVmf239GU",
+        "description":"It involves culture of Kambla and Bhootha Kola. A human and nature conflict where Shiva is the rebellion who works against nature. A loop leads to war between villagers and evil forces. Will he able to replace peace in the village?",
+        "img":"https://d18hry5vavz86j.cloudfront.net/movieimages/732d7f04-ffd6-4dd3-82cb-245ecfdb9a15_240x297.jpg"
+    },
+    {
+        "name":"Vikranth Rona",
+        "id": "3",
+        "urlv":"https://www.youtube.com/watch?v=-0ldvhBlL-k",
+        "description":"Almost half a century ago, a remote village in the middle of a tropical rainforest starts witnessing a series of unexplainable events which they attribute to the supernatural.",
+        "img":"https://filmytime.com/wp-content/gallery/vikrant-rona-movie-posters/cache/Vikrant-Rona-Movie-Posters-2.jpg-nggid0510948-ngg0dyn-500x500x100-00f0w010c011r110f110r010t010.jpg"
+    },
+    {
+        "name":"Vicky Donor",
+        "id": "4",
+        "urlv":"https://www.youtube.com/watch?v=blKVK71sAl8",
+        "description":"Vicky Donor is a comedy movie based on the story of unemployeed bachlor men.",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTQwMTcyMjY3OV5BMl5BanBnXkFtZTcwNjU0MjY2Nw@@._V1_.jpg"
+    },
+    {
+        "name":"Tanhaji",
+        "id": "5",
+        "urlv":"https://www.youtube.com/watch?v=fnsWt4H619o",
+        "description":"The film traces the life of the fierce Maratha warrior, Tanhaji Malusare, who was one of Chhatrapati Shivaji Maharaj’s closest aides and a military leader. It focuses on the famous Battle of Sinhagad (February 4, 1670), which saw Tanhaji take on Udaybhan, a Rajput who fought for Aurangzeb against the Marathas.",
+        "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/9233/1389233-v-9aaacc3bf07f"
+    },
+    {
+        "name":"Sarsenapati Hambirrao",
+        "id": "6",
+        "urlv":"https://www.youtube.com/watch?v=X9o5BrTGBNM",
+        "description":"Based on the Maratha warrior Hansaji Mohite who was later given the title of Sarnobat Hambirrao, the film portrays his life as the Commander in Chief of Chatrapati Shivaji Maharaj's army.",
+        "img":"https://media0001.elcinema.com/uploads/_315x420_9b9a3147dc9e2475ef75e7dd9b64b388112548c6bf9427813fdff2f9bb1ebc93.jpg"
+    },
+    {
+        "name":"Dharmaveer",
+        "id": "7",
+        "urlv":"https://www.youtube.com/watch?v=REqFOV2A7sI",
+        "description":"A biopic based on the life of late Shiv Sena leader Anand Dighe, who devoted his life to the welfare of the people of Thane in Maharashtra.",
+        "img":"https://upload.wikimedia.org/wikipedia/en/1/13/Dharmaveer_Marathi_film.jpeg"
+    },
+    {
+        "name":"Pushpa",
+        "id": "8",
+        "urlv":"https://www.youtube.com/watch?v=CcrdrVx2VDs",
+        "description":"A labourer named Pushpa makes enemies as he rises in the world of red sandalwood smuggling. However, violence erupts when the police attempt to bring down his illegal business.",
+        "img":"https://im.rediff.com/movies/2022/jan/19pushpa1.jpg"
+    }
+]
