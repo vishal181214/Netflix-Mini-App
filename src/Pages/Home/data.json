@@ -23,36 +23,36 @@
     {
         "name":"Vicky Donor",
         "id": "4",
-        "urlv":"https://www.youtube.com/watch?v=blKVK71sAl8",
+        "urlv":"https://www.youtube.com/watch?v=Tvq9GfpvHPg",
         "description":"Vicky Donor is a comedy movie based on the story of unemployeed bachlor men.",
         "img":"https://m.media-amazon.com/images/M/MV5BMTQwMTcyMjY3OV5BMl5BanBnXkFtZTcwNjU0MjY2Nw@@._V1_.jpg"
     },
     {
-        "name":"Tanhaji",
+        "name":"Bajirao Mastani",
         "id": "5",
-        "urlv":"https://www.youtube.com/watch?v=fnsWt4H619o",
-        "description":"The film traces the life of the fierce Maratha warrior, Tanhaji Malusare, who was one of Chhatrapati Shivaji Maharaj’s closest aides and a military leader. It focuses on the famous Battle of Sinhagad (February 4, 1670), which saw Tanhaji take on Udaybhan, a Rajput who fought for Aurangzeb against the Marathas.",
-        "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/9233/1389233-v-9aaacc3bf07f"
+        "urlv":"https://www.youtube.com/watch?v=Kl3Myp1veJw&t=2888s",
+        "description":"The heroic Peshwa Bajirao, married to Kashibai, falls in love with Mastani, a warrior princess in distress. They struggle to make their love triumph amid opposition from his conservative family.",
+        "img":"https://m.media-amazon.com/images/M/MV5BODk4OWJlODMtMWYxMS00OWI1LTlkNDMtNGU5OTIyODdmOTc1XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
     },
     {
-        "name":"Sarsenapati Hambirrao",
+        "name":"Farzand",
         "id": "6",
-        "urlv":"https://www.youtube.com/watch?v=X9o5BrTGBNM",
-        "description":"Based on the Maratha warrior Hansaji Mohite who was later given the title of Sarnobat Hambirrao, the film portrays his life as the Commander in Chief of Chatrapati Shivaji Maharaj's army.",
-        "img":"https://media0001.elcinema.com/uploads/_315x420_9b9a3147dc9e2475ef75e7dd9b64b388112548c6bf9427813fdff2f9bb1ebc93.jpg"
+        "urlv":"https://www.youtube.com/watch?v=szYQL1TwpB8",
+        "description":"Kondaji Farzand, along with a large group of warriors, sets out to battle Adil Shah in order to recapture the Panhala Fort.",
+        "img":"https://upload.wikimedia.org/wikipedia/en/0/04/Farzand_Film_Poster.jpg"
     },
     {
-        "name":"Dharmaveer",
+        "name":"PK",
         "id": "7",
-        "urlv":"https://www.youtube.com/watch?v=REqFOV2A7sI",
-        "description":"A biopic based on the life of late Shiv Sena leader Anand Dighe, who devoted his life to the welfare of the people of Thane in Maharashtra.",
-        "img":"https://upload.wikimedia.org/wikipedia/en/1/13/Dharmaveer_Marathi_film.jpeg"
+        "urlv":"https://www.youtube.com/watch?v=0RhDOpSnCqs",
+        "description":"An innocent alien lands on Earth but loses his communication device. He meets Jaggu, a heartbroken reporter, and tries to find his device. With time, he raises many thought-provoking questions.",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg"
     },
     {
-        "name":"Pushpa",
+        "name":"Master",
         "id": "8",
-        "urlv":"https://www.youtube.com/watch?v=CcrdrVx2VDs",
-        "description":"A labourer named Pushpa makes enemies as he rises in the world of red sandalwood smuggling. However, violence erupts when the police attempt to bring down his illegal business.",
-        "img":"https://im.rediff.com/movies/2022/jan/19pushpa1.jpg"
+        "urlv":"https://www.youtube.com/watch?v=JrzK_jJsXho",
+        "description":"An alcoholic professor is enrolled to teach at a juvenile facility, unbeknownst to him. He soon clashes with a ruthless gangster, who uses the children as scapegoats for his crimes.",
+        "img":"https://upload.wikimedia.org/wikipedia/en/5/53/Master_2021_poster.jpg"
     }
 ]
